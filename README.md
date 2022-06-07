@@ -46,6 +46,11 @@ CAPITULO 6
 
 5 Concluciones
 
+para el calculo de la corriente en los diferentes cicuitos como son los circuitos en serie y en paralelo se implementara las leyes de ohm y las leyes Kirchhoff 
+
+los divisores de voltaje es cuando el circuito consta de resistores en serie donde a través de uno o más resistores se mide el volteje de salida
+
+
 6.BIBLIOGRAFIA
 Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación.
 
